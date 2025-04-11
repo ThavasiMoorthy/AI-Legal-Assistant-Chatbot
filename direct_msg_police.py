@@ -8,7 +8,7 @@ TWILIO_AUTH_TOKEN = ""
 TWILIO_PHONE = ""
 
 # LocationIQ API Key
-LOCATIONIQ_API_KEY = "pk.72fc2356a1b5fe438bd77e6757cc094e"
+LOCATIONIQ_API_KEY = ""
 
 # Function to fetch nearest police station contact
 def get_nearest_police_station(area):
