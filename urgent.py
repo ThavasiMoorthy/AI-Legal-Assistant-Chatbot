@@ -10,10 +10,10 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSequenceClassification.from_pretrained(model_name)
 
 # Twilio API Credentials (replace with your own)
-TWILIO_ACCOUNT_SID = "ACcb6f19ace56db44d5264360a4576e9ce"
-TWILIO_AUTH_TOKEN = "87281ae02aca42b39969a3666aa36668"
-TWILIO_PHONE_NUMBER = "+18283581231"  # Your Twilio number
-POLICE_STATION_NUMBER = "+918015766955"  # Replace with actual police station number
+TWILIO_ACCOUNT_SID = ""
+TWILIO_AUTH_TOKEN = ""
+TWILIO_PHONE_NUMBER = ""  # Your Twilio number
+POLICE_STATION_NUMBER = ""  # Replace with actual police station number
 
 client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
 
