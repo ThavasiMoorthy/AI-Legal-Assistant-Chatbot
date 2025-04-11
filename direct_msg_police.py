@@ -3,9 +3,9 @@ import requests
 from twilio.rest import Client
 
 # Twilio API Credentials
-TWILIO_SID = "ACcb6f19ace56db44d5264360a4576e9ce"
-TWILIO_AUTH_TOKEN = "87281ae02aca42b39969a3666aa36668"
-TWILIO_PHONE = "+18283581231"
+TWILIO_SID = ""
+TWILIO_AUTH_TOKEN = ""
+TWILIO_PHONE = ""
 
 # LocationIQ API Key
 LOCATIONIQ_API_KEY = "pk.72fc2356a1b5fe438bd77e6757cc094e"
