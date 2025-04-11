@@ -10,7 +10,7 @@ from langdetect import detect
 from twilio.rest import Client
 
 # 🌍 LocationIQ API (Free for 5000 requests/day)
-LOCATIONIQ_API_KEY = "pk.72fc2356a1b5fe438bd77e6757cc094e"
+LOCATIONIQ_API_KEY = ""
 
 # 🔍 OpenStreetMap API (No API Key Required)
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
