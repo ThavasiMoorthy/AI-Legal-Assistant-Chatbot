@@ -1,10 +1,10 @@
 import streamlit as st
 from twilio.rest import Client
 # Twilio credentials (Replace with your actual credentials)
-TWILIO_SID = "ACcb6f19ace56db44d5264360a4576e9ce"
-TWILIO_AUTH_TOKEN = "87281ae02aca42b39969a3666aa36668"
-TWILIO_PHONE = "+18283581231"
-RECEIVER_PHONE  = "+918015766955"   
+TWILIO_SID = ""
+TWILIO_AUTH_TOKEN = ""
+TWILIO_PHONE = ""
+RECEIVER_PHONE  = ""   
  # Replace with the police complaint number
 # Replace with the court complaint number
 
